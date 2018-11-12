@@ -1,0 +1,15 @@
+C:\Users\leechi\Source\Repos\RayVRKeyBoard\RayVRKeyBoard\bin\Debug\RayVRKeyBoard.exe.config
+C:\Users\leechi\Source\Repos\RayVRKeyBoard\RayVRKeyBoard\bin\Debug\RayVRKeyBoard.exe
+C:\Users\leechi\Source\Repos\RayVRKeyBoard\RayVRKeyBoard\bin\Debug\RayVRKeyBoard.pdb
+C:\Users\leechi\Source\Repos\RayVRKeyBoard\RayVRKeyBoard\obj\Debug\RayVRKeyBoard.csprojAssemblyReference.cache
+C:\Users\leechi\Source\Repos\RayVRKeyBoard\RayVRKeyBoard\obj\Debug\App.g.cs
+C:\Users\leechi\Source\Repos\RayVRKeyBoard\RayVRKeyBoard\obj\Debug\RayVRKeyBoard_MarkupCompile.cache
+C:\Users\leechi\Source\Repos\RayVRKeyBoard\RayVRKeyBoard\obj\Debug\RayVRKeyBoard_MarkupCompile.lref
+C:\Users\leechi\Source\Repos\RayVRKeyBoard\RayVRKeyBoard\obj\Debug\RayVRKeyBoard.g.resources
+C:\Users\leechi\Source\Repos\RayVRKeyBoard\RayVRKeyBoard\obj\Debug\RayVRKeyBoard.Properties.Resources.resources
+C:\Users\leechi\Source\Repos\RayVRKeyBoard\RayVRKeyBoard\obj\Debug\RayVRKeyBoard.csproj.GenerateResource.cache
+C:\Users\leechi\Source\Repos\RayVRKeyBoard\RayVRKeyBoard\obj\Debug\RayVRKeyBoard.csproj.CoreCompileInputs.cache
+C:\Users\leechi\Source\Repos\RayVRKeyBoard\RayVRKeyBoard\obj\Debug\RayVRKeyBoard.exe
+C:\Users\leechi\Source\Repos\RayVRKeyBoard\RayVRKeyBoard\obj\Debug\RayVRKeyBoard.pdb
+C:\Users\leechi\Source\Repos\RayVRKeyBoard\RayVRKeyBoard\obj\Debug\MainWindow.g.cs
+C:\Users\leechi\Source\Repos\RayVRKeyBoard\RayVRKeyBoard\obj\Debug\MainWindow.baml

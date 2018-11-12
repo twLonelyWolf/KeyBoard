@@ -1,0 +1,62 @@
+﻿<Window x:Class="RayVRKeyBoard.Window1"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:RayVRKeyBoard"
+        mc:Ignorable="d"
+        Title="RayKeyBoardFunction" Height="500" Width="950" Background="#FFBD0E07">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="3*"/>
+            <ColumnDefinition Width="469*"/>
+        </Grid.ColumnDefinitions>
+        <Button Content="1" HorizontalAlignment="Left" Margin="98.6,287,0,0" VerticalAlignment="Top" Width="70" Click="Button_Click_1" Height="28" Grid.Column="1"/>
+        <Button Content="2" HorizontalAlignment="Left" Margin="173.6,287,0,0" VerticalAlignment="Top" Width="70" Click="Button_Click_1" Height="28" Grid.Column="1"/>
+        <Button Content="3" HorizontalAlignment="Left" Margin="247.6,287,0,0" VerticalAlignment="Top" Width="70" Click="Button_Click_1" Height="28" Grid.Column="1"/>
+        <Button Content="4" HorizontalAlignment="Left" Margin="322.6,287,0,0" VerticalAlignment="Top" Width="70" Click="Button_Click_1" Height="28" Grid.Column="1"/>
+        <Button Content="5" HorizontalAlignment="Left" Margin="397.6,287,0,0" VerticalAlignment="Top" Width="70" Click="Button_Click_1" Height="28" Grid.Column="1"/>
+        <Button Content="6" HorizontalAlignment="Left" Margin="472.6,287,0,0" VerticalAlignment="Top" Width="70" Click="Button_Click_1" Height="28" Grid.Column="1"/>
+        <Button Content="7" HorizontalAlignment="Left" Margin="547.6,287,0,0" VerticalAlignment="Top" Width="70" Click="Button_Click_1" Height="28" Grid.Column="1"/>
+        <Button Content="8" HorizontalAlignment="Left" Margin="622.6,287,0,0" VerticalAlignment="Top" Width="70" Click="Button_Click_1" Height="28" Grid.Column="1"/>
+        <Button Content="9" HorizontalAlignment="Left" Margin="697.6,287,0,0" VerticalAlignment="Top" Width="70" Click="Button_Click_1" Height="28" Grid.Column="1"/>
+        <Button Content="Tab" HorizontalAlignment="Left" Margin="23.6,287,0,0" VerticalAlignment="Top" Width="70" Click="Button_Click_1" Height="28" Grid.Column="1"/>
+        <Button Content="Q" HorizontalAlignment="Left" Margin="98.6,322,0,0" VerticalAlignment="Top" Width="70" Click="Button_Click_1" Height="29" Grid.Column="1"/>
+        <Button Content="W" HorizontalAlignment="Left" Margin="173.6,322,0,0" VerticalAlignment="Top" Width="70" Click="Button_Click_1" Height="29" Grid.Column="1"/>
+        <Button Content="E" HorizontalAlignment="Left" Margin="247.6,322,0,0" VerticalAlignment="Top" Width="70" Click="Button_Click_1" Height="29" Grid.Column="1"/>
+        <Button Content="R" HorizontalAlignment="Left" Margin="322.6,322,0,0" VerticalAlignment="Top" Width="70" Click="Button_Click_1" Height="29" Grid.Column="1"/>
+        <Button Content="T" HorizontalAlignment="Left" Margin="397.6,322,0,0" VerticalAlignment="Top" Width="70" Click="Button_Click_1" Height="29" Grid.Column="1"/>
+        <Button Content="Y" HorizontalAlignment="Left" Margin="472.6,322,0,0" VerticalAlignment="Top" Width="70" Click="Button_Click_1" Height="29" Grid.Column="1"/>
+        <Button Content="U" HorizontalAlignment="Left" Margin="547.6,322,0,0" VerticalAlignment="Top" Width="70" Click="Button_Click_1" Height="29" Grid.Column="1"/>
+        <Button Content="I" HorizontalAlignment="Left" Margin="622.6,322,0,0" VerticalAlignment="Top" Width="70" Click="Button_Click_1" Height="29" Grid.Column="1"/>
+        <Button Content="O" HorizontalAlignment="Left" Margin="697.6,322,0,0" VerticalAlignment="Top" Width="70" Click="Button_Click_1" Height="29" Grid.Column="1"/>
+        <Button Content="Caps Lock" HorizontalAlignment="Left" Margin="23.6,322,0,0" VerticalAlignment="Top" Width="70" Click="Button_Click_1" Height="29" Grid.Column="1"/>
+        <Button Content="A" HorizontalAlignment="Left" Margin="98.6,358,0,0" VerticalAlignment="Top" Width="70" Click="Button_Click_1" Height="29" Grid.Column="1"/>
+        <Button Content="S" HorizontalAlignment="Left" Margin="173.6,358,0,0" VerticalAlignment="Top" Width="70" Click="Button_Click_1" Height="29" Grid.Column="1"/>
+        <Button Content="D" HorizontalAlignment="Left" Margin="247.6,358,0,0" VerticalAlignment="Top" Width="70" Click="Button_Click_1" Height="29" Grid.Column="1"/>
+        <Button Content="F" HorizontalAlignment="Left" Margin="322.6,358,0,0" VerticalAlignment="Top" Width="70" Click="Button_Click_1" Height="29" Grid.Column="1"/>
+        <Button Content="G" HorizontalAlignment="Left" Margin="397.6,358,0,0" VerticalAlignment="Top" Width="70" Click="Button_Click_1" Height="29" Grid.Column="1"/>
+        <Button Content="H" HorizontalAlignment="Left" Margin="472.6,358,0,0" VerticalAlignment="Top" Width="70" Click="Button_Click_1" Height="29" Grid.Column="1"/>
+        <Button Content="J" HorizontalAlignment="Left" Margin="547.6,358,0,0" VerticalAlignment="Top" Width="70" Click="Button_Click_1" Height="29" Grid.Column="1"/>
+        <Button Content="K" HorizontalAlignment="Left" Margin="622.6,358,0,0" VerticalAlignment="Top" Width="70" Click="Button_Click_1" Height="29" Grid.Column="1"/>
+        <Button Content="L" HorizontalAlignment="Left" Margin="697.6,358,0,0" VerticalAlignment="Top" Width="70" Click="Button_Click_1" Height="29" Grid.Column="1"/>
+        <Button Content="Shift" HorizontalAlignment="Left" Margin="23.6,358,0,0" VerticalAlignment="Top" Width="70" Click="Button_Click_1" Height="29" Grid.Column="1"/>
+        <Button Content="Z" HorizontalAlignment="Left" Margin="98.6,394,0,0" VerticalAlignment="Top" Width="70" Click="Button_Click_1" Height="28" Grid.Column="1"/>
+        <Button Content="X" HorizontalAlignment="Left" Margin="173.6,394,0,0" VerticalAlignment="Top" Width="70" Click="Button_Click_1" Height="28" Grid.Column="1"/>
+        <Button Content="C" HorizontalAlignment="Left" Margin="247.6,394,0,0" VerticalAlignment="Top" Width="70" Click="Button_Click_1" Height="28" Grid.Column="1"/>
+        <Button Content="V" HorizontalAlignment="Left" Margin="322.6,394,0,0" VerticalAlignment="Top" Width="70" Click="Button_Click_1" Height="28" Grid.Column="1"/>
+        <Button Content="B" HorizontalAlignment="Left" Margin="397.6,394,0,0" VerticalAlignment="Top" Width="70" Click="Button_Click_1" Height="28" Grid.Column="1"/>
+        <Button Content="N" HorizontalAlignment="Left" Margin="472.6,394,0,0" VerticalAlignment="Top" Width="70" Click="Button_Click_1" Height="28" Grid.Column="1"/>
+        <Button Content="M" HorizontalAlignment="Left" Margin="547.6,394,0,0" VerticalAlignment="Top" Width="70" Click="Button_Click_1" Height="28" Grid.Column="1"/>
+        <Button Content="0" HorizontalAlignment="Left" Margin="772.6,287,0,0" VerticalAlignment="Top" Width="70" Click="Button_Click_1" Height="28" Grid.Column="1"/>
+        <Button Content="P" HorizontalAlignment="Left" Margin="772.6,322,0,0" VerticalAlignment="Top" Width="70" Click="Button_Click_1" Height="29" Grid.Column="1"/>
+        <Button Content="Backspace" HorizontalAlignment="Left" Margin="847.6,287,0,0" VerticalAlignment="Top" Width="70" Click="Button_Click_1" Height="61" Grid.Column="1"/>
+        <Button Content="Enter" HorizontalAlignment="Left" Margin="772.6,358,0,0" VerticalAlignment="Top" Width="145" Click="Button_Click_1" Height="64" Grid.Column="1"/>
+        <Button Content="Shift" HorizontalAlignment="Left" Margin="622.6,394,0,0" VerticalAlignment="Top" Width="145" Click="Button_Click_1" Height="28" Grid.Column="1"/>
+        <Button Content="Ctrl" HorizontalAlignment="Left" Margin="23.6,394,0,0" VerticalAlignment="Top" Width="70" Click="Button_Click_1" Height="28" Grid.Column="1"/>
+        <Button Content="Space" HorizontalAlignment="Left" Margin="98.6,430,0,0" VerticalAlignment="Top" Width="819" Click="Button_Click_1" Height="28" Grid.Column="1"/>
+        <Button Content="Alt" HorizontalAlignment="Left" Margin="23.6,430,0,0" VerticalAlignment="Top" Width="70" Click="Button_Click_1" Height="28" Grid.Column="1"/>
+        <TextBox HorizontalAlignment="Left" Height="266" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="894" Margin="23.6,10,0,0" TextChanged="TextBox_TextChanged" Background="#FFF4F2F2" BorderBrush="#FF0D46F1" Grid.Column="1"/>
+
+    </Grid>
+</Window>
